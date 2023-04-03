@@ -19,7 +19,7 @@
 
 # about the project
 a project based on another project on my github, which is: [cars_api_java](https://github.com/NinaS23/Cars_Api_Java),I chose to do it separately for educational purposes.
-The objective of this part of the project was to organize in two folders: a folder for the Models ( a Java object that represents an item in the application domain)  and a folder for the repositories
+The objective of this part of the project was to organize in two folders: a folder for the Models and a folder for the repositories
 
 
 
